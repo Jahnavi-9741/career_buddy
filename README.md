@@ -24,11 +24,13 @@ Here’s your updated `README.md` file with screenshot sections added. Make sure
 
 ### 💻 Chatbot Interface
 
-![Chat UI](screenshots/screenshot1.png)
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7d0adae2-bc74-42db-af99-45e34d568a50" />
+
 
 ### 🔧 Backend Running on FastAPI
 
-![FastAPI Docs](screenshots/screenshot2.png)
+<img width="2057" height="1205" alt="image" src="https://github.com/user-attachments/assets/5b3209d4-67f8-47b2-babb-14b6f6199184" />
+
 
 ---
 
